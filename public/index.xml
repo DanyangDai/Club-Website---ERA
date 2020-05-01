@@ -5,10 +5,23 @@
     <link>/</link>
     <description>Recent content on ERA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quants Report </title>
+      <link>/post/quants-report/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/quants-report/</guid>
+      <description>
+
+
+
+</description>
+    </item>
     
     <item>
       <title>About</title>
