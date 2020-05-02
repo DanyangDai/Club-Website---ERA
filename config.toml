@@ -1,8 +1,6 @@
 baseurl = "https://eraunimelb.netlify.app/"
 title = "ERA"
 
-relativeurls = true 
-
 theme = "hugo-coder"
 
 
