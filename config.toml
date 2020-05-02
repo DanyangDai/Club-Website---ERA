@@ -16,6 +16,10 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "ERA"
 
+[outputs]
+  home = [ "HTML", "CSS", "RSS", "JSON" ]
+  section = [ "HTML", "RSS" ]
+
 [params]
     author = "ERA"
     description = "ERA website"
