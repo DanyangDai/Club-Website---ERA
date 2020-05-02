@@ -1,4 +1,4 @@
-baseurl = "https://eraunimelb.netlify.app/"
+baseurl = "/"
 title = "ERA"
 
 theme = "hugo-coder"
