@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://www.eraunimelb.netlify.app"
 title = "ERA"
 
 relativeurls = true 
