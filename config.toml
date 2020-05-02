@@ -80,17 +80,17 @@ disqusShortname = "ERA"
 [[menu.main]]
 name = "About"
 weight = 1
-url = "about/"
+url = "/about/"
 
 [[menu.main]]
 name = "Blog"
 weight = 2
-url = "post/"
+url = "/post/"
 
 [[menu.main]]
 name = "Contacts"
 weight = 3
-url = "contact/"
+url = "/contact/"
 
            
 
