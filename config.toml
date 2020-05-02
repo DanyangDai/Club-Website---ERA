@@ -1,6 +1,9 @@
 baseurl = "https://eraunimelb.netlify.app/"
 title = "ERA"
 
+languagecode = "en"
+defaultcontentlanguage = "en"
+
 theme = "hugo-coder"
 
 
