@@ -16,9 +16,6 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "ERA"
 
-[outputs]
-  home = [ "HTML", "CSS", "RSS", "JSON" ]
-  section = [ "HTML", "RSS" ]
 
 [params]
     author = "ERA"
@@ -39,7 +36,8 @@ disqusShortname = "ERA"
     commit = "https://github.com/luizdepra/hugo-coder/tree/"
 
     rtl = false
-
+    math = true
+    custom_css = ["css/custom.css"]
     # Specify light/dark colorscheme
     # Supported values:
     # "auto" (use preference set by browser)
