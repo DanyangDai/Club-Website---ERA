@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "make prepare && hugo --source demo --baseURL $URL"
+  command = "Hugo"
 
 [context.production.environment]
   HUGO_VERSION = "0.57.0"
