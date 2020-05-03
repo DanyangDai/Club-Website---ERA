@@ -1,6 +1,6 @@
 
 [build]
-  publish = "demo/public"
+  publish = "public"
   command = "make prepare && hugo --source demo --baseURL $URL"
 
 [context.production.environment]
