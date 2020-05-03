@@ -1,13 +1,13 @@
 
 [build]
   publish = "public"
-  command = "make prepare && hugo --source demo --baseURL $URL"
+  command = "make prepare && hugo --source public --baseURL $URL"
 
 [context.production.environment]
   HUGO_VERSION = "0.57.0"
 
 [context.deploy-preview]
-  command = "make prepare && hugo --source demo --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
+  command = "make prepare && hugo --source public --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.57.0"
