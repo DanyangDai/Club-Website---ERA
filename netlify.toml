@@ -4,4 +4,3 @@
 
 [context.production.environment]
   HUGO_VERSION = "0.57.0"
-  

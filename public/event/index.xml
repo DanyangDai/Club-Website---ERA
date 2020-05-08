@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on ERA</title>
+    <link>/event/</link>
+    <description>Recent content in Events on ERA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Event</title>
+      <link>/event/event/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/event/event/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
