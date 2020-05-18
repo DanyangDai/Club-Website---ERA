@@ -20,7 +20,7 @@ disqusShortname = "ERA"
     description = "ERA website"
     keywords = "Equity, Research, Finance, Companies"
     info = "Equity Research Association"
-    avatarurl = "images/logo1.png"
+    avatarurl = "images/logo2.png"
     footercontent = "Welcome"
 
     dateformat = "January 2, 2006"

@@ -6,10 +6,19 @@
     <description>Recent content on ERA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Event</title>
+      <link>/event/event/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/event/event/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quants Report </title>
@@ -30,7 +39,27 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>&lt;p&gt;The Equity Research Association (ERA) is a student-run club based in the University of Melbourne, devoted to providing comprehensive analysis and reports on companies, and to developing essential researching and technical skills amongst our student community.&lt;/p&gt;
+      <description>&lt;h1 id=&#34;about-us&#34;&gt;ABOUT US&lt;/h1&gt;
+&lt;p&gt;The Equity Research Association (ERA) was recently established in 2020 at The University of Melbourne.&lt;/p&gt;
+&lt;p&gt;ERA is an independent student body focused on developing a well-rounded equity research skillset amongst our university student community. ERA aims to showcase objective research done by our peer’s&lt;/p&gt;
+&lt;h1 id=&#34;our-aims&#34;&gt;OUR AIMS&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Provide members insight into the equity research industry, specifically how it acts to support the operations of other industries such as asset management and investment banking.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To offer members a clear picture of careers in equity research and enable members to be updated with the recent equity research career opportunities, as well as networking opportunities with equity research firms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To enhance members’ understanding about how fundamental factors such as corporate governance, competitive advantages and industry landscape affect the prospects of real-world companies.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To equip members with practical skills on researching the fundamentals of real-world companies and industries. Specifically, with a focus on sourcing information, direction of research and analysing companies’ future prospects.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To act as a platform for like-minded students to regularly interact and discuss their findings from their research.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
@@ -41,6 +70,16 @@
       
       <guid>/contact/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;mailto:equity.research.unimelb@gmail.com&#34;&gt;equity.research.unimelb@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/</guid>
+      <description>&lt;p&gt;The Equity Research Association (ERA) is a student-run club based in the University of Melbourne, devoted to providing comprehensive analysis and reports on companies, and to developing essential researching and technical skills amongst our student community.&lt;/p&gt;
 </description>
     </item>
     
