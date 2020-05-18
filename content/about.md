@@ -1,6 +1,6 @@
 ---
 slug: about
-title: About Us 
+title: About Us
 ---
 The Equity Research Association (ERA) was recently established in 2020 at The University of Melbourne.
 

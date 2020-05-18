@@ -1,12 +1,10 @@
 baseurl = "/"
 title = "ERA"
 
-
-theme = "hugo-coder"
-l
-anguagecode = "en"
+languagecode = "en"
 defaultcontentlanguage = "en"
 
+theme = "hugo-coder"
 
 paginate = 20
 canonifyurls = true
@@ -16,6 +14,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "ERA"
+
 
 [params]
     author = "ERA"
@@ -105,4 +104,6 @@ url = "/team/"
 name = "Events"
 weight = 5
 url = "/event/"
-        
+         
+
+   
