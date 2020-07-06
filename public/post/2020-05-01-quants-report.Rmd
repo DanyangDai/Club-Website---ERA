@@ -1,8 +1,10 @@
 ---
-title: 'Quants Report '
+title: 'Qantas Report '
 author: ''
 date: '2020-05-01'
 slug: quants-report
 categories: []
 tags: []
 ---
+
+![Image Title](/Users/daidanyang/Desktop/R-Ladies Melbourne /club webiste 2/Qantas.pdf){width=100%}.

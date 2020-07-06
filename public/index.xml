@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Quants Report </title>
+      <title>Qantas Report </title>
       <link>/post/quants-report/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
@@ -29,18 +29,17 @@
       <description>
 
 
-
+&lt;p&gt;&lt;embed src=&#34;/Users/daidanyang/Desktop/R-Ladies%20Melbourne%20/club%20webiste%202/Qantas.pdf&#34; style=&#34;width:100.0%&#34; /&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>About</title>
+      <title>About Us</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>&lt;h1 id=&#34;about-us&#34;&gt;ABOUT US&lt;/h1&gt;
-&lt;p&gt;The Equity Research Association (ERA) was recently established in 2020 at The University of Melbourne.&lt;/p&gt;
+      <description>&lt;p&gt;The Equity Research Association (ERA) was recently established in 2020 at The University of Melbourne.&lt;/p&gt;
 &lt;p&gt;ERA is an independent student body focused on developing a well-rounded equity research skillset amongst our university student community. ERA aims to showcase objective research done by our peer’s&lt;/p&gt;
 &lt;h1 id=&#34;our-aims&#34;&gt;OUR AIMS&lt;/h1&gt;
 &lt;ol&gt;
@@ -79,8 +78,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/team/</guid>
-      <description>&lt;p&gt;The Equity Research Association (ERA) is a student-run club based in the University of Melbourne, devoted to providing comprehensive analysis and reports on companies, and to developing essential researching and technical skills amongst our student community.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
