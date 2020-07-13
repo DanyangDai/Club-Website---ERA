@@ -1,0 +1,14 @@
+---
+title: "Qantas Report"
+author: "Danyang Dai"
+date: "13/07/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\begin{center} 
+\includegraphics[page=1,width=8in]{/Users/daidanyang/Desktop/R-Ladies Melbourne /club webiste 2/Qantas.pdf} 
+\end{center}

@@ -1,0 +1,7 @@
+<div class="responsive-wrap">
+  <object data="{{ .Get "url" }}" type="application/pdf" style="margin: 0 auto;height: 100vh;width: 100%;">
+    <embed src="{{ .Get "url" }}" type="application/pdf "style="margin: 0 auto;height: 100vh;width: 100%;">
+      <em>It seems that your browser cannot display the PDF file; Please use this <a href="{{ .Get "url" }}"><strong>link</strong> </a>
+        instead. Thanks!</em>
+        </object>
+        </div>

@@ -7,4 +7,6 @@ categories: []
 tags: []
 ---
 
-![Image Title](/Users/daidanyang/Desktop/R-Ladies Melbourne /club webiste 2/Qantas.pdf){width=100%}.
+<embed src="pdf/qantas.pdf" type="application/pdf "style="margin: 0 auto;height: 100vh;width: 100%;">
+
+

@@ -20,7 +20,7 @@
       <description>
 
 
-&lt;p&gt;&lt;embed src=&#34;/Users/daidanyang/Desktop/R-Ladies%20Melbourne%20/club%20webiste%202/Qantas.pdf&#34; style=&#34;width:100.0%&#34; /&gt;.&lt;/p&gt;
+&lt;embed src=&#34;pdf/qantas.pdf&#34; type=&#34;application/pdf &#34;style=&#34;margin: 0 auto;height: 100vh;width: 100%;&#34;&gt;
 </description>
     </item>
     
