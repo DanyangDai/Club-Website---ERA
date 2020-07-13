@@ -77,7 +77,7 @@ disqusShortname = "ERA"
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 3
-    url = ""
+    url = "https://www.linkedin.com/company/eraunimelb/"
 
 
 [[menu.main]]
