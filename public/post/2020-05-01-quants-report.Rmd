@@ -6,7 +6,7 @@ slug: quants-report
 categories: []
 tags: []
 ---
-<div> <object data="pdf/qantas.pdf" type="application/pdf" style="margin: 0 auto;height: 100vh;width: 100%;"> <embed src="pdf/qantas.pdf" type="application/pdf"> </object>
+<div> <object data="https://equityresearch.netlify.app/pdf/qantas.pdf" type="application/pdf" style="margin: 0 auto;height: 100vh;width: 100%;"> <embed src="https://equityresearch.netlify.app/pdf/qantas.pdf" type="application/pdf"> </object>
 </div>
 
 
